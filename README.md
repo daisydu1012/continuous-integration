@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+Continuous Integration ![https://github.com/daisydu1012/continuous-integration/actions?query=workflow%3Atests](https://github.com/daisydu1012/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
@@ -194,7 +194,7 @@ In particular,
 the first line of the file currently contains the text
 
 ```
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/daisydu1012/continuous-integration/actions?query=workflow%3Atests](https://github.com/daisydu1012/continuous-integration/workflows/tests/badge.svg)
 ```
 
 To fix this problem and get the correct badge,
@@ -224,4 +224,4 @@ but with your github username instead of mine.
 > **IMPORTANT:**
 >
 > It is not enough in this class to simply push your final code onto github.
-> The grader will not know to grade your code unless you also submit it into sakai.
+> The grader will not know to grade your code unless you also submit it into sakai
